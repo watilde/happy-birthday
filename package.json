@@ -6,7 +6,9 @@
   "bin": {
     "happy-birthday": "./happy-birthday.js"
   },
-  "dependencies": {},
+  "dependencies": {
+    "commander": "^2.9.0"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
