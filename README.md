@@ -19,3 +19,6 @@ $ happy-birthday --version
 0.3.0
 ```
 
+## Patch welcome
+Add your message ;)
+https://github.com/watilde/happy-birthday/blob/master/messages.txt
