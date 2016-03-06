@@ -1,1 +1,2 @@
 Happy birthday, $1!
+Joyeux anniversaire, $1!
