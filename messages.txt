@@ -2,3 +2,4 @@ Happy birthday, $1!
 Feliz aniversário, $1!
 Joyeux anniversaire, $1!
 Feliz cumpleaños, $1!
+お誕生日おめでとう、$1！
