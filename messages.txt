@@ -8,5 +8,6 @@ Per molts anys, $1!
 생일 축하해, $1!
 С Днём рождения, $1!
 З Днем народження, $1!
+Maligayang bati, $1!
 Grattis på födelsedagen, $1!
 Boldog szülinapot, $1!
