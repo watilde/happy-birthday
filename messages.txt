@@ -16,4 +16,5 @@ Sretan ti rođendan, $1!
 生日快樂, $1!
 സന്തോഷ ജന്മദിനം $1കു
 Selamat ulang tahun, $1!
+Sugeng ambal warso, $1!
 Buon compleanno, $1!
