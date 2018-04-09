@@ -17,3 +17,4 @@ Sretan ti rođendan, $1!
 സന്തോഷ ജന്മദിനം $1കു
 Selamat ulang tahun, $1!
 Buon compleanno, $1!
+Fijne verjaardag, $1!
