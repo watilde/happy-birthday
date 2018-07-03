@@ -20,3 +20,4 @@ Sugeng ambal warso, $1!
 Buon compleanno, $1!
 Fijne verjaardag, $1!
 Chúc mừng sinh nhật, $1!
+పుట్టినరోజు శుభాకాంక్షలు $1!
