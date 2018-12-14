@@ -25,3 +25,4 @@ Chúc mừng sinh nhật, $1!
 जन्मदिन की शुभकामनाएं $1!
 สุขสันต์วันเกิด $1!
 Wszystkiego najlepszego, $1!
+La mulți ani, $1!
