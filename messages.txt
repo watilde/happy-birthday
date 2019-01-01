@@ -26,4 +26,4 @@ Chúc mừng sinh nhật, $1!
 สุขสันต์วันเกิด $1!
 Wszystkiego najlepszego, $1!
 La mulți ani, $1!
-$1 تولدت مبارک
+تولدت مبارک, $1!
