@@ -27,3 +27,5 @@ Chúc mừng sinh nhật, $1!
 Wszystkiego najlepszego, $1!
 La mulți ani, $1!
 تولدت مبارک, $1!
+वाढदिवसाच्या शुभेच्छा $1!
+ಹುಟ್ಟುಹಬ್ಬದ ಶುಭಾಶಯಗಳು $1!
