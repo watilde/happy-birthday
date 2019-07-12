@@ -37,3 +37,4 @@ Arahabaina nahatratra ny nitsingerenan'ny taona nahaterahanao ianao $1!
 Doğum günün kutlu olsun, $1!
 Mutlu yillar, $1!
 Gratulerer med dagen, $1!
+සුබ උපන්දිනයක් වේවා, $1!
