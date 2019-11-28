@@ -33,7 +33,7 @@ Feliĉan naskiĝtagon, $1!
 Arahabaina nahatratra ny nitsingerenan'ny taona nahaterahanao ianao $1!
 Төрсөн өдрийн мэнд хүргэе, $1!
 سالگرہ مبارک، $1
-இனிய பிறந்தநாள் வாழ்த்துக்கள், $1!
+இனிய பிறந்தநாள் வாழ்த்துக்கள் $1!
 Doğum günün kutlu olsun, $1!
 Mutlu yillar, $1!
 Gratulerer med dagen, $1!
