@@ -1,6 +1,6 @@
 {
   "name": "happy-birthday",
-  "version": "0.21.0",
+  "version": "0.22.0",
   "description": "Happy birthday to you!",
   "main": "index.js",
   "bin": {
