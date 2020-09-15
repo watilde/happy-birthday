@@ -40,4 +40,4 @@ Gratulerer med dagen, $1!
 සුබ උපන්දිනයක් වේවා, $1!
 كل سنة و انت طيب يا $1!
 जीवेत् शरद: शतम् $1 !
-Tavallud ayyomingiz muborak bo'lsin $1!
+መልካም ልደት $1 !
