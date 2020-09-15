@@ -15,6 +15,6 @@ if (!program.you) return program.help()
 you = program.you
 message = hb(you)
 
-console.log('\n🎂')
+console.log('\n')
 console.log(message)
-console.log('🎉')
+console.log('\n')
