@@ -46,3 +46,4 @@ Tavallud ayyomingiz muborak bo'lsin $1!
 Všetko najlepšie, $1!
 Všechno nejlepší, $1!
 გილოცავ დაბადების დღეს, $1!
+Aues Guete zum Geburtstag, $1!
