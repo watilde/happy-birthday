@@ -1,23 +1,14 @@
 Happy birthday, $1!
-Feliz aniversário, $1!
 Joyeux anniversaire, $1!
-Feliz cumpleaños, $1!
 お誕生日おめでとう、$1！
-Alles Gute zum Geburtstag, $1!
 Per molts anys, $1!
 생일 축하해, $1!
 С Днём рождения, $1!
-З Днем народження, $1!
 Maligayang bati, $1!
-Grattis på födelsedagen, $1!
 Boldog szülinapot, $1!
 Sretan ti rođendan, $1!
-生日快乐, $1!
-生日快樂, $1!
 സന്തോഷ ജന്മദിനം $1കു
-Selamat ulang tahun, $1!
 Sugeng ambal warso, $1!
-Buon compleanno, $1!
 Fijne verjaardag, $1!
 Chúc mừng sinh nhật, $1!
 పుట్టినరోజు శుభాకాంక్షలు $1!
@@ -26,18 +17,13 @@ Chúc mừng sinh nhật, $1!
 สุขสันต์วันเกิด $1!
 Wszystkiego najlepszego, $1!
 La mulți ani, $1!
-تولدت مبارک, $1!
 वाढदिवसाच्या शुभेच्छा $1!
 ಹುಟ್ಟುಹಬ್ಬದ ಶುಭಾಶಯಗಳು $1!
-Feliĉan naskiĝtagon, $1!
 Arahabaina nahatratra ny nitsingerenan'ny taona nahaterahanao ianao $1!
 Төрсөн өдрийн мэнд хүргэе, $1!
 سالگرہ مبارک، $1
 இனிய பிறந்தநாள் வாழ்த்துக்கள் $1!
-Doğum günün kutlu olsun, $1!
 Mutlu yillar, $1!
-Gratulerer med dagen, $1!
-සුබ උපන්දිනයක් වේවා, $1!
 كل سنة و انت طيب يا $1!
 जीवेत् शरद: शतम् $1 !
 Sngi kha ba suk, $1!
@@ -47,3 +33,106 @@ Všetko najlepšie, $1!
 Všechno nejlepší, $1!
 გილოცავ დაბადების დღეს, $1!
 Aues Guete zum Geburtstag, $1!
+Gelukkige verjaarsdag, $1!
+Gëzuar ditëlindjen, $1!
+መልካም ልደት, $1!
+عيد مولد سعيد, $1!
+Ծնունդդ շնորհավոր, $1!
+Ad günün mübarək, $1!
+Zorionak, $1!
+З Днём Нараджэння, $1!
+শুভ জন্মদিন, $1!
+Честит Рожден ден, $1!
+Feliç aniversari, $1!
+Malipayon nga adlawng natawhan, $1!
+Tsiku labwino lobadwa, $1!
+生日快乐, $1!
+生日快樂, $1!
+Felice Anniversariu, $1!
+Sretan rođendan, $1!
+Všechno nejlepší k narozeninám, $1!
+Tillykke med fødselsdagen, $1!
+Van harte gefeliciteerd, $1!
+Happy Birthday, $1!
+Feliĉan naskiĝtagon, $1!
+Palju õnne sünnipäevaks, $1!
+Maligayang kaarawan, $1!
+Hyvää syntymäpäivää, $1!
+Bonne fête, $1!
+Lokkige jierdei, $1!
+Feliz Aniversario, $1!
+Გილოცავ დაბადების დღეს, $1!
+Alles Gute zum Geburtstag, $1!
+Χαρούμενα γενέθλια, $1!
+જન્મદિવસ ની શુભકામના, $1!
+Bòn fèt, $1!
+Barka da ranar haihuwa, $1!
+Hauʻoli Lā Hānau, $1!
+יום הולדת שמח, $1!
+जन्मदिन मुबारक, $1!
+Zoo siab hnub yug, $1!
+Boldog születésnapot, $1!
+Til hamingju með afmælið, $1!
+Ezi ncheta ọmụmụ, $1!
+Selamat ulang tahun, $1!
+Lá breithe shona duit, $1!
+Buon compleanno, $1!
+誕生日おめでとう, $1!
+Sugeng ambal warsa, $1!
+ಹುಟ್ಟುಹಬ್ಬದ ಶುಭಾಶಯಗಳು, $1!
+Туылған күніңмен, $1!
+រីករាយ​ថ្ងៃ​កំណើត, $1!
+생일 축하 해요, $1!
+Rojbûna te pîroz be, $1!
+Туулган кунуңуз менен куттуктайм, $1!
+ສຸກ​ສັນ​ວັນ​ເກີດ, $1!
+Felix natalis, $1!
+Daudz laimes dzimšanas dienā, $1!
+Su gimtadieniu, $1!
+Alles Guddes fir de Gebuertsdag, $1!
+Среќен роденден, $1!
+Tratry ny tsingerintaona nahaterahana, $1!
+Selamat Hari lahir, $1!
+ജന്മദിനാശംസകൾ, $1!
+Happy Birthday., $1!
+Rā whānau, $1!
+वाढदिवसाच्या हार्दिक शुभेच्छा, $1!
+Төрсөн өдрийн мэнд, $1!
+ပျော်ရွင်ဖွယ်ရာမွေးနေ့, $1!
+जन्मदिनको शुभकामना, $1!
+Gratulerer med dagen, $1!
+ଜନ୍ମଦିନର ଅଭିନନ୍ଦନ, $1!
+کلیزه دی نیکمرغه, $1!
+تولدت مبارک, $1!
+Wszystkiego najlepszego z okazji urodzin, $1!
+Feliz aniversário, $1!
+ਜਨਮਦਿਨ ਮੁਬਾਰਕ, $1!
+La multi ani, $1!
+С днем рождения, $1!
+manuia le aso fanau, $1!
+Co-là-breith math, $1!
+Срећан рођендан, $1!
+Letsatsi le monate la tsoalo, $1!
+Bhavhadhe rinofadza, $1!
+සුබ උපන්දිනයක් වේවා, $1!
+Šťastné narodeniny, $1!
+Vse najboljše, $1!
+Dhalasho Wacan, $1!
+Feliz cumpleaños, $1!
+Wilujeung tepang taun, $1!
+Furaha ya kuzaliwa, $1!
+Grattis på födelsedagen, $1!
+Зодрӯз муборак, $1!
+பிறந்தநாள் வாழ்த்துக்கள், $1!
+పుట్టినరోజు శుభాకాంక్షలు, $1!
+สุขสันต์วันเกิด, $1!
+Doğum günün kutlu olsun, $1!
+З Днем народження, $1!
+تۇغۇلغان كۈنىڭىزگە مۇبارەك بولسۇن, $1!
+Tug'ilgan kuning bilan, $1!
+Sinh nhật vui vẻ, $1!
+Penblwydd hapus, $1!
+Usuku lokuzalwa olumnandi, $1!
+מזל דיין געבורסטאָג, $1!
+O ku ojo ibi, $1!
+Usuku olumnandi lokuzalwa, $1!
