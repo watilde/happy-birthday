@@ -47,3 +47,4 @@ Všetko najlepšie, $1!
 Všechno nejlepší, $1!
 გილოცავ დაბადების დღეს, $1!
 Aues Guete zum Geburtstag, $1!
+ပျော်ရွှင်စရာမွေးနေ့ဖြစ်ပါစေ, $1
